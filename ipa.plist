@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://10.242.100.195/meeting/publish/v0.4.0/ios/meeting_mobile_202005091413_f52bad3_online/meeting_mobile_202005091413_f52bad3_online_Release.ipa</string>
+                    <string>https://github.com/wuleihenbang/IosDemo/blob/master/meeting_mobile_202005111445_767ef8b_online_Release.ipa?raw=true</string>
                 </dict>
             </array>
             <key>metadata</key>
